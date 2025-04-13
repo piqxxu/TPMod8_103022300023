@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TPKpl\\TPModul8_103022300023\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCBA1BE-891F-43CE-A74E-CE7D4E166E4A}|TPModul8_103022300023\\TPModul8_103022300023.csproj|d:\\tpkpl\\tpmodul8_103022300023\\tpmodul8_103022300023\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCBA1BE-891F-43CE-A74E-CE7D4E166E4A}|TPModul8_103022300023\\TPModul8_103022300023.csproj|solutionrelative:tpmodul8_103022300023\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TPKpl\\TPModul8_103022300023\\TPModul8_103022300023\\Program.cs",
+              "RelativeDocumentMoniker": "TPModul8_103022300023\\Program.cs",
+              "ToolTip": "D:\\TPKpl\\TPModul8_103022300023\\TPModul8_103022300023\\Program.cs",
+              "RelativeToolTip": "TPModul8_103022300023\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T15:51:54.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
