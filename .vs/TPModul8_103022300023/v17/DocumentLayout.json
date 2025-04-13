@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\TPKpl\\TPModul8_103022300023\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ECCBA1BE-891F-43CE-A74E-CE7D4E166E4A}|TPModul8_103022300023\\TPModul8_103022300023.csproj|d:\\tpkpl\\tpmodul8_103022300023\\tpmodul8_103022300023\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ECCBA1BE-891F-43CE-A74E-CE7D4E166E4A}|TPModul8_103022300023\\TPModul8_103022300023.csproj|solutionrelative:tpmodul8_103022300023\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCBA1BE-891F-43CE-A74E-CE7D4E166E4A}|TPModul8_103022300023\\TPModul8_103022300023.csproj|d:\\tpkpl\\tpmodul8_103022300023\\tpmodul8_103022300023\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCBA1BE-891F-43CE-A74E-CE7D4E166E4A}|TPModul8_103022300023\\TPModul8_103022300023.csproj|solutionrelative:tpmodul8_103022300023\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ECCBA1BE-891F-43CE-A74E-CE7D4E166E4A}|TPModul8_103022300023\\TPModul8_103022300023.csproj|d:\\tpkpl\\tpmodul8_103022300023\\tpmodul8_103022300023\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECCBA1BE-891F-43CE-A74E-CE7D4E166E4A}|TPModul8_103022300023\\TPModul8_103022300023.csproj|solutionrelative:tpmodul8_103022300023\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,14 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "covid_config.json",
+              "DocumentMoniker": "D:\\TPKpl\\TPModul8_103022300023\\TPModul8_103022300023\\covid_config.json",
+              "RelativeDocumentMoniker": "TPModul8_103022300023\\covid_config.json",
+              "ToolTip": "D:\\TPKpl\\TPModul8_103022300023\\TPModul8_103022300023\\covid_config.json",
+              "RelativeToolTip": "TPModul8_103022300023\\covid_config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T16:04:29.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TPKpl\\TPModul8_103022300023\\TPModul8_103022300023\\Program.cs",
               "RelativeDocumentMoniker": "TPModul8_103022300023\\Program.cs",
               "ToolTip": "D:\\TPKpl\\TPModul8_103022300023\\TPModul8_103022300023\\Program.cs",
               "RelativeToolTip": "TPModul8_103022300023\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T15:51:54.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "D:\\TPKpl\\TPModul8_103022300023\\TPModul8_103022300023\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "TPModul8_103022300023\\CovidConfig.cs",
+              "ToolTip": "D:\\TPKpl\\TPModul8_103022300023\\TPModul8_103022300023\\CovidConfig.cs",
+              "RelativeToolTip": "TPModul8_103022300023\\CovidConfig.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:03:29.732Z",
               "EditorCaption": ""
             }
           ]
